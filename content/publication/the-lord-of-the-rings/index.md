@@ -9,7 +9,7 @@ authors:
 draft: false
 featured: false
 tags:
-  - OrcsTrolls
+  - Orcs;Trolls;Ents
 image:
   filename: featured
   focal_point: Smart
